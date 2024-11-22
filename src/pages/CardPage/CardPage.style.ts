@@ -1,4 +1,3 @@
-// src/pages/MainPage/MainPage.style.ts
 import styled from "styled-components";
 
 export const SCarsPage = styled.div`
